@@ -1,2 +1,2 @@
 # PrestigeStuff
-using git instead of pastebin because better
+using git instead of pastebin cause better
